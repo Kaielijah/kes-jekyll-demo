@@ -1,1 +1,0 @@
-# kes-jekyll-demo
